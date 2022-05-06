@@ -1,5 +1,5 @@
 body {
-    font-family: "Poppins", sans-serif;
+    font-family:  sans-serif;
     color: #444444;
     text-align: center;
     background-color: #d6d3ce;
@@ -17,9 +17,6 @@ body {
     text-decoration: none;
   }
   
-  h1, h2, h3, h4, h5, h6 {
-    font-family: "Satisfy", sans-serif;
-  }
   #Home .carousel-item button:hover{
     background-color: rgba(217, 164, 30, 0.5);
 }
@@ -70,7 +67,7 @@ background-position: center;}
   .book-a-table .php-email-form .error-message {
     display: none;
     color: #fff;
-    background: #ed3c0d;
+    background: #ed0d0d;
     text-align: left;
     padding: 15px;
     font-weight: 600;
